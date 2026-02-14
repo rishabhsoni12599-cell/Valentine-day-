@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Valentine Proposal</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #ffdde1, #ee9ca7);
+    text-align: center;
+    color: white;
+}
+
+.container {
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.image-box {
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.image-box img {
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.footer {
+    margin-top: 30px;
+    font-size: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>💍 My Valentine Proposal 🌹</h1>
+
+    <div class="image-box">
+        <img src="proposal.jpg" alt="Valentine Proposal">
+    </div>
+
+    <div class="image-box">
+        <img src="hetavi.jpg" alt="Hetavi">
+    </div>
+
+    <div class="footer">
+        Made with ❤️ by Rishabh
+    </div>
+</div>
+
+</body>
+</html>
